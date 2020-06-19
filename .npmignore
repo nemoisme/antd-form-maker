@@ -2,7 +2,7 @@ node_modules/*
 src/
 assets/
 yarn.lock
-.babelrc
+.babel.config.js
 .editorconfig
 *html
 LICENSE

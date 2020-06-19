@@ -1,6 +1,6 @@
 {
   "name": "antd-form-maker",
-  "version": "1.0.20",
+  "version": "1.0.0",
   "description": "a lib about generate form base on antd",
   "main": "lib/AntdFormMaker.js",
   "author": "nemoisme<nemo_ambitoner@163.com>",
